@@ -1,0 +1,16 @@
+body {
+    background-color: #FFFFD2;
+}
+
+h1 {
+    color: black    ;
+    font-family: 'Titillium Web', sans-serif;
+    
+    /* text-shadow: 1px 1px 2px #252A34; */
+}
+
+/* @media (max-width: 900px) {
+    .img-fluid {
+        position: static;
+    }
+}  */
