@@ -1,0 +1,23 @@
+      <!-- Navbar -->
+      <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <a class="navbar-brand" href="#">
+          <img src="images/Tondo.png" alt="Roberta Beretta logo" width="30" height="auto" class="d-inline-block align-text-top">         
+          RobertaBeretta.
+        </a>       
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+            </nav>     
+
+
+
+            Born in Milan on August 13th, 1991, I had a passion for Nintendo's Pokemon games as a child and dreamed of becoming a programmer to create my own. 
+              At 14, I took my first steps towards that goal by learning HTML and CSS, but I quickly realized that frustration came hand in hand with the process. <br><br>
+              However, that didn't stop me from pursuing my passions in other ways. 
+              In 2006, YouTube entered my life and I became intrigued by the world of content creation, passively watching and learning as much as I could. <br><br>
+              After earning my degree in Mathematics in 2022, I set out on a freelance journey as a math and physics tutor.
+              It was during this time that I was first introduced to NFTs and became fascinated with the world of Web3 and distributed ledger technologies. 
+              I've been immersing myself in these fields ever since, participating in events and continually educating myself on the latest advancements. <br><br>
+              My journey may have taken a different path than I initially envisioned, but I am grateful for where it has led me. <br><br>
+              So, there you have it - my journey from a Pokemon-loving kid to a tech-savvy and YouTube content creator. 
+              Fueled by my passion for learning and determination to succeed, I am confident that my background in mathematics will be a valuable asset as I continue to explore and grow.

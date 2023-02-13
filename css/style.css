@@ -1,58 +1,49 @@
-body {
-    background-color: #EEEEEE;
+.container-fluid {
+  padding-top: 50px;
+  padding-bottom: 50px;
 }
 
-h1 {
-    font-family: 'Karma', serif;
-    font-size: 3.5rem;
+/* Scritte */
+h1, h2 {
+  font-family: 'Playfair Display', serif;
 }
-
-h3 {
-    font-family: 'Karma', serif;
-    font-size: 2.2rem;
+i, b {
+  color: #FF6304;
 }
-
-h6 {
-    font-family: 'Sofia Sans Condensed', sans-serif;
-    font-size: 1.7rem;
-}
-
 p {
-    font-family: 'Sofia Sans Condensed', sans-serif;
-    font-size: 1.3rem;    
+  font-family: 'Libre Baskerville', serif;
+}
+
+
+/* Logo */
+.homepage-logo {
+  width: 200px;
+  height: auto;
+}
+.container-homepage-logo-shadow {
+  width: 200px;
+  height: 10px;
+  display: flex;
+  justify-content: center;
+  padding-top: 10px;
+}
+.homepage-logo-shadow {
+  background-color: #D0C5C0ff;
+  width: 80px;
+  height: 10px;
+  border-radius: 100% 100%;
 }
 
 
 
-.email {
-    font-family: 'Sofia Sans Condensed', sans-serif;
-    font-size: 1.5rem; 
-    color: #EEEEEE;
+
+.social-icon {
+  width: 30px;
+  height: 30px;
+  transition: transform 0.5s ease-in-out;
+  margin: 10px;
 }
 
-.navbar {
-    background-color: #EEEEEE;
-    font-family: 'Sofia Sans Condensed', sans-serif;
-    font-size: 1.3rem;
-    position: fixed;
-    width: 100%;
-    z-index: 1;
+.social-icon:hover {
+  transform: rotate(360deg);
 }
-
-.training {
-    font-family: 'Sofia Sans Condensed', sans-serif;
-    font-size: 1.3rem;
-
-}
-
-#row-title-section {
-    padding-top: 150px;
-    padding-bottom:20px;
-}
-
-#row-email {
-    background-color: #00ADB5;
-    
-}
-
-
