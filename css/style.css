@@ -1,49 +1,80 @@
-.container-fluid {
-  padding-top: 50px;
-  padding-bottom: 50px;
+  /* All page */
+body {
+  background-color: white;
+  font-family: 'Spectral', serif;
 }
-
-/* Scritte */
-h1, h2 {
-  font-family: 'Playfair Display', serif;
+.row {
+  margin: 0;
+} 
+b{
+  color:#FF6304;
 }
-i, b {
+hr {
+  border-style: dotted none none;
+  border-width: 12px;
+  border-color: #FF6304;
+  width: 50px;
+}
+h4 {
+  font-family: 'Mynerve', cursive;
   color: #FF6304;
 }
-p {
-  font-family: 'Libre Baskerville', serif;
+a {
+  text-decoration: none;
+  color:black;
 }
 
+    /* Navbar & Language Choice*/
+header{
+  margin-bottom: 80px;
+}    
+.navbar-brand{
+  margin-left: 10px;
+}
 
-/* Logo */
-.homepage-logo {
+   /* Home */
+.main-logo {
   width: 200px;
+  height: auto; 
+  margin-right: 20px;   
+}
+
+    /* Main */
+.h1-name-text{
+  font-family: 'Raleway', sans-serif;
+  color: #FF6304;
+}
+.h2-slogan-text {
+    font-family: 'Mynerve', cursive;
+}
+    /* Portfolio */
+.card{
+  padding: 0;
+}    
+    /* Contact */
+.contact-mail-img {
+  width: 20px;
   height: auto;
 }
-.container-homepage-logo-shadow {
-  width: 200px;
-  height: 10px;
-  display: flex;
-  justify-content: center;
-  padding-top: 10px;
+
+    /* Footer */
+footer {
+  font-family: 'Mynerve', cursive;
 }
-.homepage-logo-shadow {
-  background-color: #D0C5C0ff;
-  width: 80px;
-  height: 10px;
-  border-radius: 100% 100%;
+.footer-img-heart {
+  width: 15px;
+  height: auto;
 }
-
-
-
-
 .social-icon {
   width: 30px;
   height: 30px;
   transition: transform 0.5s ease-in-out;
   margin: 10px;
 }
-
 .social-icon:hover {
   transform: rotate(360deg);
+}
+
+    /* Tablet and Mobile */
+@media (max-width: 1320px) {
 }
